@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently looking for job in **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [https://unruffled-pike-6fb94a.netlify.app/](https://admiring-lichterman-590046.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://unruffled-pike-6fb94a.netlify.app/](https://unruffled-pike-6fb94a.netlify.app/)
 
 - 💬 Ask me about **I am entry level Full Stack Developer, hard working indivitual with proficiency in Html, Javascript, and Css, Reactjs, Nodejs, Mongodb as well as strong ability to communicate and work in a team effectively seeks to apply for the position of intern Full Stack Developer**
 

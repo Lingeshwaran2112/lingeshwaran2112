@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lingeshwaran $</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate PLSQL developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshwaran2112&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran2112" /> </p>
 
-- 🌱 I’m currently looking for job in **Full Stack Developer**
+- 🌱 I’m currently working in ITC Infotech as a **PLSQL Developer**
 
-- 👨‍💻 All of my projects are available at [https://unruffled-pike-6fb94a.netlify.app/](https://unruffled-pike-6fb94a.netlify.app/)
+- 💬 Ask me about **Detail-oriented professional with exceptional interpersonal skills, team working abilities, seeking the role of PL/SQL Developer. Expertise in SQL, Database development and design, including Oracle SQL Developers well as extensive knowledge of data structures. Fluent in Tamil and English.**
 
-- 💬 Ask me about **I am entry level Full Stack Developer, hard working indivitual with proficiency in Html, Javascript, and Css, Reactjs, Nodejs, Mongodb as well as strong ability to communicate and work in a team effectively seeks to apply for the position of intern Full Stack Developer**
+- 📫 How to reach me **lingeshwaranplsql.com**
 
-- 📫 How to reach me **lingeshwaran6009@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K1s9JtcQFbMt9Mq26yastjO5nKc5jcXa/view?usp=sharing](https://drive.google.com/file/d/1K1s9JtcQFbMt9Mq26yastjO5nKc5jcXa/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-b_zJCLZhpzUZDEL7FrPe0536Mw-po-y/view?usp=drivesdk ](https://drive.google.com/file/d/1K1s9JtcQFbMt9Mq26yastjO5nKc5jcXa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

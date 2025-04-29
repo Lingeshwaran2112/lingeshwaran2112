@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lingeshwaran $</h1>
-<h3 align="center">A passionate PLSQL developer from India</h3>
+<h1 align="center">Hi 👋, I'm Lingeshwaran S</h1>
+<h3 align="center">A passionate Front End Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lingeshwaran2112&label=Profile%20views&color=0e75b6&style=flat" alt="lingeshwaran2112" /> </p>
 
-- 🌱 I’m currently working in ITC Infotech as a **PLSQL Developer**
+- 🌱 I’m currently working in Tamil info Technology as a **Frontend Developer**
 
-- 💬 Ask me about **Detail-oriented professional with exceptional interpersonal skills, team working abilities, seeking the role of PL/SQL Developer. Expertise in SQL, Database development and design, including Oracle SQL Developers well as extensive knowledge of data structures. Fluent in Tamil and English.**
+- 💬 Ask me about **Front-End Developer with 2 years and 9 months of experience in designing, developing, and implementing responsive and user-centric web applications. Proficient in HTML5, CSS3, JavaScript, and modern frameworks like React.js, Angular, and Vue.js. Skilled in translating UI/UX designs into high-quality code with pixel-perfect precision. Strong understanding of cross-browser compatibility, web performance optimization, and mobile-first design. Adept at collaborating with cross-functional teams to deliver high-impact digital experiences. Passionate about clean code, usability, and staying up-to-date with emerging web technologies. Experienced in writing clean, efficient, and modular JavaScript code. Skilled in utilizing ES6+ features such as arrow functions, destructuring, and async/await to enhance code readability and performance. Proficient in building dynamic and interactive user interfaces using ReactJS. Experienced in component-based architecture, state management with hooks React.js Fluent in Tamil and English.**
 
-- 📫 How to reach me **lingeshwaranplsql.com**
+- 📫 How to reach me **lingeshwaran6009@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-b_zJCLZhpzUZDEL7FrPe0536Mw-po-y/view?usp=drivesdk ](https://drive.google.com/file/d/1-b_zJCLZhpzUZDEL7FrPe0536Mw-po-y/view?usp=drivesdk)
 

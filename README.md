@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Front-End Developer with 2 years and 9 months of experience in designing, developing, and implementing responsive and user-centric web applications. Proficient in HTML5, CSS3, JavaScript, and modern frameworks like React.js, Angular, and Vue.js. Skilled in translating UI/UX designs into high-quality code with pixel-perfect precision. Strong understanding of cross-browser compatibility, web performance optimization, and mobile-first design. Adept at collaborating with cross-functional teams to deliver high-impact digital experiences. Passionate about clean code, usability, and staying up-to-date with emerging web technologies. Experienced in writing clean, efficient, and modular JavaScript code. Skilled in utilizing ES6+ features such as arrow functions, destructuring, and async/await to enhance code readability and performance. Proficient in building dynamic and interactive user interfaces using ReactJS. Experienced in component-based architecture, state management with hooks React.js Fluent in Tamil and English.**
 
-- 📫 How to reach me **lingeshwaran6009@gmail.com**
+- 📫 How to reach me **lingeshmech12@gmail.com**
 
 - 📄 Know about my experiences [[https://drive.google.com/file/d/1-b_zJCLZhpzUZDEL7FrPe0536Mw-po-y/view?usp=drivesdk](https://drive.google.com/file/d/1-b_zJCLZhpzUZDEL7FrPe0536Mw-po-y/view?usp=drivesdk)
 
